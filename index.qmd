@@ -3,9 +3,7 @@ title: "Steno Free"
 subtitle: "et projekt med fokus på tidlig implementering af teknologi til voksne med nykonstateret type 1 diabetes"
 ---
 
-All text below this is meant as examples of elements you can add to your
-website. You should delete this text and replace it with your own text,
-images, etc.
+Et projekt med fokus på tidlig emplementering af teknolgi.
 
 ## Image example
 
