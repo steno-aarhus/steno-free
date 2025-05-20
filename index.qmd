@@ -8,7 +8,7 @@ Et projekt med fokus på tidlig emplementering af teknolgi til voksne med nykons
 ## Image example
 
 ![Example image
-text](/_extensions/sdca-theme/images/banner.png){fig-alt="Abstract line art forming a continuous, looping wave pattern in red on a white background."}
+text](/_extensions/steno-aarhus/sdca-theme/images/banner.png){fig-alt="Abstract line art forming a continuous, looping wave pattern in red on a white background."}
 
 ```{=html}
 <!--
@@ -60,7 +60,7 @@ The "code" for the button has multiple elements as well:
 
 ::: text-center
 ![Anna
-Andersen](/_extensions/sdca-theme/images/home-banner.jpg){.profile-picture
+Andersen](/_extensions/steno-aarhus/sdca-theme/images/home-banner.jpg){.profile-picture
 fig-alt="Image of Anna Andersen"}
 :::
 
