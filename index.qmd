@@ -3,7 +3,7 @@ title: "Steno Free"
 subtitle: "et projekt med fokus på tidlig implementering af teknologi til voksne med nykonstateret type 1 diabetes"
 ---
 
-Et projekt med fokus på tidlig emplementering af teknolgi.
+Et projekt med fokus på tidlig emplementering af teknolgi til voksne med nykonstateret type 1 diabetes.
 
 ## Image example
 
