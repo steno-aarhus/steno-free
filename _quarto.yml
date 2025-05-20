@@ -1,0 +1,15 @@
+project:
+  type: sdca-theme
+
+website:
+  title: "Steno Free Project"
+  site-url: "https://steno-aarhus.github.io/steno-free/"
+  repo-url: "https://github.com/steno-aarhus/steno-free"
+
+format:
+  sdca-theme-html
+
+editor:
+  markdown:
+    wrap: 72
+    canonical: true
