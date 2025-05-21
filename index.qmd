@@ -55,11 +55,10 @@ The "code" for the button has multiple elements as well:
 -->
 ```
 
-## Profile picture example
+## Teknologier der bruges i projektet
 
 ::: text-center
-![Anna
-Andersen](/_extensions/steno-aarhus/sdca-theme/images/home-banner.jpg){.profile-picture
+![created with the help from AI](/_extensions/steno-aarhus/sdca-theme/images/home-banner.jpg){.profile-picture
 fig-alt="Image of Anna Andersen"}
 :::
 
@@ -82,7 +81,9 @@ left-aligned.
 
 I Steno Free vil vi undersøge, om en tidlig indsats med CGM eller AID-teknologi og fleksible, behovsbaserede konsultationer kan mindske sygdomsbelastningen og forbedre både trivsel og blodsukkerkontrol – sammenlignet med den nuværende standardbehandling.
 
-Projektet er I fuld gang og planen er at 60 voksne med nyopdaget type 1-diabetes fra Region Midtjylland tilbydes at deltage og projektet løber indtil oktober 2028. Ved tilfældig lodtrækning fordeles deltagere i en af to grupper:
+Projektet er I fuld gang og planen er at 60 voksne med nyopdaget type 1-diabetes fra Region Midtjylland tilbydes at deltage og projektet løber indtil oktober 2028. 
+
+Ved tilfældig lodtrækning fordeles deltagere i en af to grupper:
 
 AID-gruppen: tilbydes en automatisk insulinpumpe med dertilhørende CGM. 
 [AID](https://www.medtronic-diabetes.com/da-DK/insulinpumpe/minimed-780g-systemet){.btn
@@ -93,9 +94,9 @@ CGM-gruppen: tilbydes en CGM og insulinpen behandling.
 .btn-primary role="button"}
 :::
 
-## Målepunkter
+## Hvad måler vi på?
 
-Vi måler grader af diabetesrelateret stress, livskvalitet samt helbredsforståelse ved spørgeskemaer og interviews. Ligesom vi måler blodsukkerniveauer i løbet af projektperioden.
+Vi måler deltageres oplevelse af diabetesrelateret stress, livskvalitet samt helbredsforståelse ved spørgeskemaer og interviews. Ligesom vi måler blodsukkerniveauer i løbet af projektperioden.
 
 ## Hvor langt er vi?
 
