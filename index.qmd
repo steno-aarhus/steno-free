@@ -19,11 +19,11 @@ Projektet er i fuld gang og planen er at 60 voksne med nyopdaget type 1-diabetes
 
 Det afgøres ved tilfældig lodtrækning hvilken en af to grupper deltagerne indgår i:
 
-AID-gruppen: deltagerne tilbydes en automatisk insulinpumpe med dertilhørende CGM. 
+* AID-gruppen: deltagerne tilbydes en automatisk insulinpumpe med dertilhørende CGM. 
 [AID](https://www.medtronic-diabetes.com/da-DK/insulinpumpe/minimed-780g-systemet){.btn
 .btn-primary role="button"}
 
-CGM-gruppen: deltagerne tilbydes en CGM og insulinpen behandling.
+* CGM-gruppen: deltagerne tilbydes en CGM og insulinpen behandling.
 [CGM](https://www.freestyle.abbott/da-dk/home.html?gad_source=1&gad_campaignid=21406895265&gclid=EAIaIQobChMI7eSuxMiyjQMVL2RBAh2K7RsiEAAYASAAEgJFZPD_BwE){.btn
 .btn-primary role="button"}
 
