@@ -2,9 +2,7 @@
 title: "Steno Free"
 subtitle: "Tidlig brug af teknologi til voksne med nyopdaget type 1-diabetes"
 ---
-image: images/AID.pdf
-
-(https://github.com/steno-aarhus/steno-free/blob/main/_extensions/steno-aarhus/sdca-theme/images/AID.pdf)
+image: _extensions/steno-aarhus/sdca-theme/images/AID.pdf
 
 Steno Free er et nyt forskningsprojekt, der undersøger, om tidlig brug af avanceret teknologi kombineret med insulinbehandling kan gøre en positiv forskel for voksne, som netop har fået diagnosen type 1-diabetes.
 
