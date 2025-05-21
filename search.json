@@ -18,7 +18,7 @@
     "href": "index.html#teknologi",
     "title": "Steno Free",
     "section": "Teknologi",
-    "text": "Teknologi\n\n\n\nExample image text\n\n\n\n\n\n```"
+    "text": "Teknologi\n\n\n\nExample image text\n\n\n```{https://github.com/steno-aarhus/steno-free/blob/main/_extensions/steno-aarhus/sdca-theme/images/ChatGPT%20Image%2021.%20maj%202025%2C%2005.59.47.tiff}\n\n\n\n```{=html}\n&lt;!--\nThe \"code\" for the button has multiple elements as well:\n\n1.  The part in the `[]`: This is the text that will be shown on the\n    button.\n2.  The part in the `()`: This is the link to the page you want to link\n    to.\n3.  The part in the `{}`: The `.btn` and `.btn-primary` are classes that\n    style the button. Leave them as they are to keep the button styled\n    as it is now. `role=\"button\"` is a role that tells screen readers \n    that this is a button, which is important for accessibility.\n4.  The `text-center` part is a class that centers the button on the\n    page. You can remove it if you want the button to be left-aligned.\n--&gt;\n\n```"
   },
   {
     "objectID": "index.html#hvad-går-projektet-ud-på",
