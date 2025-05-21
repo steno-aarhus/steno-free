@@ -39,28 +39,35 @@
     "href": "index.html#aid",
     "title": "Steno Free",
     "section": "AID",
-    "text": "AID\n\nA button linking to a page"
+    "text": "AID\n\nAID"
   },
   {
     "objectID": "index.html#cgm",
     "href": "index.html#cgm",
     "title": "Steno Free",
     "section": "CGM",
-    "text": "CGM\n\nA button linking to a page\n\nVi måler blandt andet diabetesrelateret stress, livskvalitet samt helbredsforståelse ved spørgeskemaer og interviews. Ligesom vi måler blodsukkerniveauer i løbet af projektperioden."
+    "text": "CGM\n\nCGM"
+  },
+  {
+    "objectID": "index.html#målepunkter",
+    "href": "index.html#målepunkter",
+    "title": "Steno Free",
+    "section": "Målepunkter",
+    "text": "Målepunkter\nVi måler blandt andet diabetesrelateret stress, livskvalitet samt helbredsforståelse ved spørgeskemaer og interviews. Ligesom vi måler blodsukkerniveauer i løbet af projektperioden."
   },
   {
     "objectID": "index.html#hvor-langt-er-vi",
     "href": "index.html#hvor-langt-er-vi",
     "title": "Steno Free",
     "section": "Hvor langt er vi?",
-    "text": "Hvor langt er vi?\nStudiet begyndte i september 2024, og vi har indtil nu inkluderet 15 deltagere. Der er god energi og opmærksomhed omkring projektet."
+    "text": "Hvor langt er vi?\nStudiet begyndte i september 2024, og vi har indtil nu inkluderet 15 deltagere. Der er god energi og opmærksomhed omkring projektet. Vi inkluderer deltagere indtil oktober 2027 eller til der er 60 deltagere ialt. Projektet løber indtil oktober 2028."
   },
   {
-    "objectID": "index.html#hvorfor-er-det-vigtigt",
-    "href": "index.html#hvorfor-er-det-vigtigt",
+    "objectID": "index.html#hvorfor-er-projektet-vigtigt",
+    "href": "index.html#hvorfor-er-projektet-vigtigt",
     "title": "Steno Free",
-    "section": "Hvorfor er det vigtigt?",
-    "text": "Hvorfor er det vigtigt?\nVed at tilbyde teknologi tidligt i forløbet håber vi at gøre hverdagen lettere og mere fri for personer med nyopdaget type 1-diabetes. Hvis resultaterne er lovende, kan det bane vej for en ny tilgang til behandling med teknologi allerede fra diagnosetidspunktet."
+    "section": "Hvorfor er projektet vigtigt?",
+    "text": "Hvorfor er projektet vigtigt?\nVed at tilbyde teknologi tidligt i forløbet håber vi at gøre hverdagen lettere og mere fri for personer med nyopdaget type 1-diabetes. Hvis resultaterne er lovende, kan det bane vej for en ny tilgang til behandling med teknologi allerede fra diagnosetidspunktet."
   },
   {
     "objectID": "index.html#projektansvarlige",
