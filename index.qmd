@@ -2,6 +2,7 @@
 title: "Steno Free"
 subtitle: "Tidlig brug af teknologi til voksne med nyopdaget type 1-diabetes"
 ---
+image: images/AID.pdf
 
 (https://github.com/steno-aarhus/steno-free/blob/main/_extensions/steno-aarhus/sdca-theme/images/AID.pdf)
 
