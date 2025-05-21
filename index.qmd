@@ -10,7 +10,7 @@ At få stillet diagnosen type 1-diabetes som voksen kan være en stor omvæltnin
 Moderne diabetesudstyr som enten kontinuerlig glukosemålingere (CGM) eller automatiske insulinpumper (AID), der kombinerer insulinpumpe og CGM, har i flere studier vist sig at kunne forbedre både blodsukkerkontrol og livskvalitet hos personer, der har haft diabetes i længere tid. Men teknologien bliver sjældent brugt lige efter diagnosen.
 
 
-## Image example
+## Image examp
 
 ![Example image
 text](/_extensions/steno-aarhus/sdca-theme/images/banner.png){fig-alt="Abstract line art forming a continuous, looping wave pattern in red on a white background."}
