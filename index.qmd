@@ -38,13 +38,13 @@ Studiet begyndte i september 2024, og vi har indtil nu inkluderet 15 deltagere. 
 Ved at tilbyde teknologi tidligt i forløbet håber vi at gøre hverdagen lettere og mere fri for personer med nyopdaget type 1-diabetes. Hvis resultaterne er lovende, kan det bane vej for en ny tilgang til behandling med teknologi allerede fra diagnosetidspunktet.
 
 ## Projektansvarlige
-Steno Free teamet består blandt andet af Mads Bisgaard Bengtsen og Jakob Appel Østergaard.
+Steno Free teamet består blandt andet af Jakob Appel Østergaard og Mads Bisgaard Bengtsen.
 
 Steno Diabetes Center Aarhus og Aarhus Universitetshospital.
 
 ## Kontakt
 
-**Mads Bengtsen, læge, PhD**  
+**Mads Bisgaard Bengtsen, læge, PhD**  
 [mabeng@rm.dk](mailto:mabeng@rm.dk)
 
 Projektregistrering og godkendelser: projektet er registeret på ClinicalTrials.gov (NCT06586632) og godkendt af Videnskabsetisk Medicinsk Komite i Danmark (2401691)
