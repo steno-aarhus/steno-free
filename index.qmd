@@ -43,10 +43,9 @@ Steno Free teamet består blandt andet af Mads Bisgaard Bengtsen og Jakob Appel 
 
 Steno Diabetes Center Aarhus og Aarhus Universitetshospital.
 
-Har du spørgsmål til projektet? 
-Kontakt os via mabeng@rm.dk
+## Kontakt
+
+**Mads Bengtsen, læge, PhD**  
+[mabeng@rm.dk](mailto:mabeng@rm.dk)
 
 Projektregistrering og godkendelser: projektet er registeret på ClinicalTrials.gov (NCT06586632) og godkendt af Videnskabsetisk Medicinsk Komite i Danmark (2401691)
-
-
-
