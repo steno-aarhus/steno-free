@@ -13,7 +13,7 @@ Moderne diabetesudstyr som enten kontinuerlig glukosemålingere (CGM) eller auto
 ## Image examp
 
 ![Example image
-text](/_extensions/steno-aarhus/sdca-theme/images/banner.png){fig-alt="Abstract line art forming a continuous, looping wave pattern in red on a white background."}
+text](https://github.com/steno-aarhus/steno-free/blob/main/_extensions/steno-aarhus/sdca-theme/images/ChatGPT%20Image%2021.%20maj%202025%2C%2005.59.47.tiff){fig-alt="Abstract line art forming a continuous, looping wave pattern in red on a white background."}
 
 ```{=html}
 <!--
