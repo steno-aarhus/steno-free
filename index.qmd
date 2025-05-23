@@ -1,6 +1,6 @@
 ---
 title: "Steno Free"
-subtitle: "Tidlig brug af teknologi til voksne med nyopdaget type 1-diabetes"
+subtitle: "Teknologi fra start – nye veje i behandlingen af type 1-diabetes"
 ---
 
 ![Kontinuerlig glukosemåler (CGM) og en automatisk insulinpumpe (AID)](_extensions/steno-aarhus/sdca-theme/images/AID.tiff)
