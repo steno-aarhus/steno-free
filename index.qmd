@@ -5,11 +5,9 @@ subtitle: "Teknologi fra start – nye veje i behandlingen af type 1-diabetes"
 
 ![Kontinuerlig glukosemåler (CGM) og en automatisk insulinpumpe (AID)](_extensions/steno-aarhus/sdca-theme/images/AID.png)
 
-![](_extensions/steno-aarhus/sdca-theme/images/AID.tiff)
-:::
 
 ![](_extensions/steno-aarhus/sdca-theme/images/AID.png)
-
+:::
 
 Steno Free er et nyt forskningsprojekt, der undersøger, om tidlig brug af avanceret teknologi kombineret med insulinbehandling kan gøre en positiv forskel for voksne, som netop har fået diagnosen type 1-diabetes.
 
