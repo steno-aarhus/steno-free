@@ -1,6 +1,6 @@
 ---
 title: "Steno Free"
-subtitle: "Teknologi fra start – nye veje i behandlingen af type 1-diabetes"
+subtitle: "Teknologi fra start – nye veje i behandlingen af ny-diagnosticeret type 1-diabetes"
 ---
 
 ![](_extensions/steno-aarhus/sdca-theme/images/AID.png)
