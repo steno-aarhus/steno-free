@@ -5,6 +5,8 @@ subtitle: "Tidlig brug af teknologi til voksne med nyopdaget type 1-diabetes"
 
 ![Kontinuerlig glukosemåler (CGM) med dertilhørende automatisk insulinpumpe (AID)](_extensions/steno-aarhus/sdca-theme/images/AID.pdf)
 
+!(_extensions/steno-aarhus/sdca-theme/images/AID.pdf)
+
 Steno Free er et nyt forskningsprojekt, der undersøger, om tidlig brug af avanceret teknologi kombineret med insulinbehandling kan gøre en positiv forskel for voksne, som netop har fået diagnosen type 1-diabetes.
 
 At få stillet diagnosen type 1-diabetes kan være en stor omvæltning – både fysisk og psykisk. Mange oplever usikkerhed, bekymring og en markant belastning i hverdagen. Samtidig stilles der hurtigt store krav til selvbehandling og sygdomsforståelse.
