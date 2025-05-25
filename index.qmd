@@ -3,7 +3,7 @@ title: "Steno Free"
 subtitle: "Teknologi fra start – nye veje i behandlingen af ny-diagnosticeret type 1-diabetes"
 ---
 
-![](/images/AID.png){width=250px fig-align="center" fig-alt="AID insulin pump on a woman's arm as she is outside walking."}
+![](/images/AID.png){width=250px fig-align="left" fig-alt="AID insulin pump on a woman's arm as she is outside walking."}
 
 Steno Free er et nyt forskningsprojekt, der undersøger, om tidlig brug af avanceret teknologi kombineret med insulinbehandling kan gøre en positiv forskel for voksne, som netop har fået diagnosen type 1-diabetes.
 
